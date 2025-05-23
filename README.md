@@ -1,0 +1,2 @@
+# NTP_ODEV_2
+NesneTabanlıProgramlamaDersiÖdevi
