@@ -1,5 +1,5 @@
 # 📚 Kütüphane Takip Sistemi – C# Windows Forms Uygulaması
-
+Youtube Link : https://youtu.be/cGQKJvf636w
 Bu proje, bir üniversite ödevi kapsamında geliştirilen ve nesne tabanlı programlama (OOP) ilkeleriyle tasarlanmış bir **Kütüphane Takip Uygulamasıdır**. C# programlama dili ve Windows Forms kullanılarak masaüstü ortamda geliştirilmiştir. Proje, kitap yönetimi, ödünç işlemleri ve gecikme kontrolü gibi temel işlevleri başarılı şekilde gerçekleştirecek şekilde planlanmıştır.
 
 ---
